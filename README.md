@@ -1,2 +1,2 @@
-# danielseptyadi.github.io
-Personal Portofolio Page
+dnlseptyadi.github.io
+
