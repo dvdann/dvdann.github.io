@@ -1,0 +1,16 @@
+.carousel .carousel-item { 
+  min-width: 500px;
+  min-height: 300px; 
+}
+.parallax-container{
+  margin-top: 0vh;
+}
+#my-pic{
+  max-height: 40vh;
+}
+.section-divide{
+  height: 8vh;
+}
+.parallax img{
+  width: 100vw;
+}
