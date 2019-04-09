@@ -1,2 +1,2 @@
-# vayupranaditya.github.io
+# danielseptyadi.github.io
 Personal Portofolio Page
